@@ -1,0 +1,15 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\Find the perfect number.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\Find the perfect number.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\Find the perfect number.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\Find the perfect number.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\Find the perfect number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\ref\Find the perfect number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\bin\Debug\net5.0\Find the perfect number.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\ref\Find the perfect number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the perfect number\obj\Debug\net5.0\Find the perfect number.genruntimeconfig.cache
