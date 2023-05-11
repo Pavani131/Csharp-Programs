@@ -1,0 +1,15 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\Smallest and largest no of an array.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\Smallest and largest no of an array.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\Smallest and largest no of an array.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\Smallest and largest no of an array.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\Smallest and largest no of an array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\ref\Smallest and largest no of an array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\bin\Debug\net5.0\Smallest and largest no of an array.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\ref\Smallest and largest no of an array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Smallest and largest no of an array\obj\Debug\net5.0\Smallest and largest no of an array.genruntimeconfig.cache

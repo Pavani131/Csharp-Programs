@@ -1,0 +1,16 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\Reverse the string with recursions.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\Reverse the string with recursions.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\Reverse the string with recursions.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\Reverse the string with recursions.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\Reverse the string with recursions.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\ref\Reverse the string with recursions.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\bin\Debug\net5.0\Reverse the string with recursions.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.csproj.AssemblyReference.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\ref\Reverse the string with recursions.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Reverse the string with recursions\obj\Debug\net5.0\Reverse the string with recursions.genruntimeconfig.cache

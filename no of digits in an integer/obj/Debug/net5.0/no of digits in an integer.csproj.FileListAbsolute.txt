@@ -1,0 +1,15 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\no of digits in an integer.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\no of digits in an integer.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\no of digits in an integer.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\no of digits in an integer.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\no of digits in an integer.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\ref\no of digits in an integer.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\bin\Debug\net5.0\no of digits in an integer.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\ref\no of digits in an integer.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\no of digits in an integer\obj\Debug\net5.0\no of digits in an integer.genruntimeconfig.cache

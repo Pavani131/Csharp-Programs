@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Smallest and largest no of an array/1.0.0": {
+        "runtime": {
+          "Smallest and largest no of an array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smallest and largest no of an array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
