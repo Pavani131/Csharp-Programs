@@ -1,0 +1,15 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\Check even or odd in array.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\Check even or odd in array.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\Check even or odd in array.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\Check even or odd in array.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\Check even or odd in array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\ref\Check even or odd in array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\bin\Debug\net5.0\Check even or odd in array.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\ref\Check even or odd in array.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Check even or odd in array\obj\Debug\net5.0\Check even or odd in array.genruntimeconfig.cache

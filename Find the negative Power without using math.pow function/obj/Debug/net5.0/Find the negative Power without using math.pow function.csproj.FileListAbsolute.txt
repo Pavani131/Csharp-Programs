@@ -1,0 +1,15 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\Find the negative Power without using math.pow function.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\Find the negative Power without using math.pow function.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\Find the negative Power without using math.pow function.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\Find the negative Power without using math.pow function.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\Find the negative Power without using math.pow function.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\ref\Find the negative Power without using math.pow function.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\bin\Debug\net5.0\Find the negative Power without using math.pow function.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\ref\Find the negative Power without using math.pow function.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\Find the negative Power without using math.pow function\obj\Debug\net5.0\Find the negative Power without using math.pow function.genruntimeconfig.cache

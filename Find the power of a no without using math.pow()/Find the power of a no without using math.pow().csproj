@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Find_the_power_of_a_no_without_using_math.pow__</RootNamespace>
+    <StartupObject>Find_the_power_of_a_no_without_using_math.pow__.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\check armstrong number.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\check armstrong number.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\check armstrong number.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\check armstrong number.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\check armstrong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\ref\check armstrong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\bin\Debug\net5.0\check armstrong number.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\ref\check armstrong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\check armstrong number\obj\Debug\net5.0\check armstrong number.genruntimeconfig.cache
