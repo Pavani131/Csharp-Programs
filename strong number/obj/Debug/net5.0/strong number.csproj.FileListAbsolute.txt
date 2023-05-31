@@ -1,0 +1,16 @@
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\strong number.exe
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\strong number.deps.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\strong number.runtimeconfig.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\strong number.runtimeconfig.dev.json
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\strong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\ref\strong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\bin\Debug\net5.0\strong number.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.csproj.AssemblyReference.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.AssemblyInfoInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.AssemblyInfo.cs
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.csproj.CoreCompileInputs.cache
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\ref\strong number.dll
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.pdb
+C:\Users\cveerave\source\repos\Two strings reverse of eachother\strong number\obj\Debug\net5.0\strong number.genruntimeconfig.cache
